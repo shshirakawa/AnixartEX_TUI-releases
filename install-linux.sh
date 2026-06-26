@@ -4,7 +4,7 @@ set -euo pipefail
 
 DEFAULT_VERSION="2.0.0"
 DEFAULT_RELEASE_TAG="celestia"
-DEFAULT_BASE_URL="https://github.com/ShakhShirakawa/AnixartEX_TUI-releases/releases/download"
+DEFAULT_BASE_URL="https://github.com/shshirakawa/AnixartEX_TUI-releases/releases/download"
 
 VERSION="${ANIXARTEX_VERSION:-$DEFAULT_VERSION}"
 RELEASE_TAG="${ANIXARTEX_RELEASE_TAG:-$DEFAULT_RELEASE_TAG}"
